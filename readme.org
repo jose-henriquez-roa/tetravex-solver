@@ -1,5 +1,5 @@
 * Tetravex Solver
-  This project present an automated solver for the Tetravex game. The program
+  This project presents an automated solver for the Tetravex game. The program
   makes use of the Simulated Annealing algorithm to find its solution.
 * Report
   The report can be found in:
